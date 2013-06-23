@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>Tap2Itch</name>
+
+<description>
+Es una aplicacion informativa del ITCH.
+</description>
+
+<author href="https://example.com" email="you@example.com">
+Chendi
+</author>
+
+<icon src="img/logotec.png" width="72" height="72" />
+<icon src="img/logotec.png" width="48" height="48" />
+<icon src="img/logotec.png" width="36" height="36" />
+
+
+</widget>
